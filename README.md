@@ -9,14 +9,14 @@
 <p><img alt="Unreal Engine 5" src="https://img.shields.io/badge/Unreal%20Engine%205-3B1849?style=for-the-badge&logo=unrealengine&logoColor=white"> <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-3B1849?style=for-the-badge&logo=cplusplus&logoColor=white"> <img alt="Lua" src="https://img.shields.io/badge/Lua-3B1849?style=for-the-badge&logo=lua&logoColor=white"> <img alt="Godot" src="https://img.shields.io/badge/Godot-3B1849?style=for-the-badge&logo=godotengine&logoColor=white"> <img alt="Defold" src="https://img.shields.io/badge/Defold-3B1849?style=for-the-badge"> <img alt="Python" src="https://img.shields.io/badge/Python-3B1849?style=for-the-badge&logo=python&logoColor=white"></p>
 
 ### 🛠️ Now
-
-- 🏰 **[ThroughArcaneEyes](https://github.com/besteto/ThroughArcaneEyes)** — UE5.8 vertical slice: C++ architecture, MVVM + CommonUI.
-- 🕯️ **[DOPROS](https://store.steampowered.com/app/4348260/DOPROS/)** — our studio's game, Godot 4.6 + Dialogic 2. Tooling: [TWC_intro_sequence](https://github.com/besteto/TWC_intro_sequence), a data-driven intro screen sequencer.
-
-### 🎮 My games `#MadeWithDefold`
-
 - 🧬 **[SELF//FORK](https://besteto.itch.io/self-fork)** — copy yourself into data packets and drop them through a cyberpunk physics board. [Wishlist on Steam](https://store.steampowered.com/app/4675280/SELFFORK) ✨
-- 🌳 **[Pando Garden](https://besteto.itch.io/pando-garden)** — wake a sleeping forest, one root at a time. Defold Game Jam 2026
+- 🏰 **[ThroughArcaneEyes](https://github.com/besteto/ThroughArcaneEyes)** — UE5.8 vertical slice: C++ architecture, MVVM + CommonUI.
+
+
+### 🎮 My games 
+
+- 🕯️ **[DOPROS](https://store.steampowered.com/app/4348260/DOPROS/)** — my ex studio The Witches Circle's game, Godot 4.6 + Dialogic 2. Open-Sourced Tooling: [TWC_intro_sequence](https://github.com/besteto/TWC_intro_sequence), a data-driven intro screen sequencer.
+- 🌳 **[Pando Garden](https://besteto.itch.io/pando-garden)** `#MadeWithDefold` — wake a sleeping forest, one root at a time. Defold Game Jam 2026
 - 🎁 **[Auris Play](https://besteto.github.io/auris-play/)** — an HTML5 birthday present
 
 ### 🎤 Talks and writing
